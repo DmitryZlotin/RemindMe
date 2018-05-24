@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Remind Me</string>
     <string name="search">Search</string>
+    <string name="notification">Напоминания</string>
 </resources>
