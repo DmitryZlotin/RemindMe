@@ -2,4 +2,6 @@
     <string name="app_name">Remind Me</string>
     <string name="search">Search</string>
     <string name="notification">Напоминания</string>
+    <string name="view_navigation_open">Открыть</string>
+    <string name="view_navigation_close">Закрыть</string>
 </resources>
